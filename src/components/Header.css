@@ -1,0 +1,7 @@
+.button-styles {
+    /* Other styles you might have */
+  }
+  
+  .button-styles button:hover {
+    color: orange;
+  }
