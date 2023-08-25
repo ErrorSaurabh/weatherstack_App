@@ -18,13 +18,10 @@
       right: 130px; 
     }
     
-    Add more styles as needed */
-    /* Weathercard.css */
-    
     .card {
     width: 300px;
     padding: 20px;
-    background-color: #978e94;
+    background-color: #f7f3f6;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
